@@ -1,0 +1,36 @@
+*
+{
+    box-sizing: border-box;
+ }
+ .product {
+    float: left;
+    width: 25%;
+    padding: 10px;
+ }
+ figcaption {
+     font-family: 'Sunflower', sans-serif;
+     color: black;
+     text-size-adjust: 5px;
+ }
+ figcaption a {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: grey;
+ }
+ .product-bottom-text-center{
+     position: relative;
+     top: 2px;
+     right: 00px;
+     size: 2px;
+     color: black;
+ }
+ .headline{
+     background-color: lightcoral;
+     font-family: 'PT Sans Narrow', sans-serif;
+     text-transform: uppercase;
+     color: white;
+     word-spacing: 10px;
+     text-align: center;
+     font-weight: bold;
+     padding: 10px;
+     font-size: xx-large;
+ }
